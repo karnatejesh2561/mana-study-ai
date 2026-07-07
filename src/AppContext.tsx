@@ -91,6 +91,7 @@ const dictionary: Record<string, string> = {
 };
 
 export const AppProvider: React.FC<{ children: React.ReactNode }> = ({ children }) => {
+
     const systemColorScheme = useColorScheme();
     const colorScheme: 'light' | 'dark' = systemColorScheme === 'dark' ? 'dark' : 'light';
     const [isAuthenticated, setIsAuthenticated] = useState(false);

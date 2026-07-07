@@ -1,0 +1,10 @@
+{"level":"error","message":"Storage upload error","timestamp":"2026-07-06T11:43:15.023Z","uploadError":{"message":"Bucket not found","name":"StorageApiError","status":400,"statusCode":"404"}}
+{"level":"error","message":"Storage upload error","timestamp":"2026-07-06T11:43:32.953Z","uploadError":{"message":"Bucket not found","name":"StorageApiError","status":400,"statusCode":"404"}}
+{"level":"error","message":"Storage upload error","timestamp":"2026-07-06T11:53:43.670Z","uploadError":{"message":"Bucket not found","name":"StorageApiError","status":400,"statusCode":"404"}}
+{"err":{},"level":"error","message":"Summary error","timestamp":"2026-07-06T11:55:45.345Z"}
+{"err":{},"level":"error","message":"Summary error","timestamp":"2026-07-06T12:02:26.524Z"}
+{"err":{},"level":"error","message":"Quiz error","timestamp":"2026-07-07T05:19:14.167Z"}
+{"err":{},"level":"error","message":"Quiz error","timestamp":"2026-07-07T05:20:19.679Z"}
+{"err":{},"level":"error","message":"Quiz error","timestamp":"2026-07-07T05:47:34.210Z"}
+{"error":"{\"code\":\"22P02\",\"details\":null,\"hint\":null,\"message\":\"invalid input syntax for type uuid: \\\"quiz-1783405964544\\\"\"}","level":"error","message":"Failed to save quiz attempt","timestamp":"2026-07-07T06:32:56.009Z"}
+{"error":"{\"code\":\"22P02\",\"details\":null,\"hint\":null,\"message\":\"invalid input syntax for type uuid: \\\"quiz-1783406049442\\\"\"}","level":"error","message":"Failed to save quiz attempt","timestamp":"2026-07-07T06:34:20.998Z"}
